@@ -1,0 +1,21 @@
+# Data and generated artifacts
+data/
+artifacts/
+*.csv
+*.csv.gz
+*.jsonl
+*.jsonl.gz
+*.json.gz
+*.parquet
+*.npy
+*.npz
+
+# Python and Jupyter
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# OS files
+.DS_Store
